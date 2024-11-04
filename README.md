@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ayda!
 - 👀 Welcome to my GitHub corner.
-- 💻 I'm starting my journey into the world of Data Analysis.
-- 📊 I'm still learning the ropes, playing around with data, and trying to turn numbers into stories.
-- 🧩 Data is the language that gives information to analysts and enables them to make effective decisions.
+- 📊 I’m passionate about Data Analysis and constantly exploring its vast possibilities.
+- 🧩 Data tells a compelling story that empowers analysts to unlock insights and shape the future.
 - 🙏 Thanks for visiting my page!
 
 
